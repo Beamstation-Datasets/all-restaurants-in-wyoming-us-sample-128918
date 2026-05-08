@@ -1,12 +1,12 @@
 {
-  "export_job_id": "28661a13-f17c-46de-aecc-63558856891f",
+  "export_job_id": "2dd47260-e75b-4f87-a0fb-e69f4dae151d",
   "id_short": 128918,
-  "published_at": "2026-04-29T07:20:35Z",
+  "published_at": "2026-05-08T07:01:35Z",
   "repo_name": "all-restaurants-in-wyoming-us-sample-128918",
   "sample_asset_name": "beamstation_128918_restaurants-us-wy_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/128918/beamstation_128918_restaurants-us-wy_SAMPLE_DIST.csv",
-  "sample_records": 157,
-  "sample_sha256": "42ed256a15fff334386c35b769d811c0126270a9815cb8d2b7ca0aa321a13bc5",
-  "sample_size_bytes": 465933,
-  "total_records": 1572
+  "sample_records": 169,
+  "sample_sha256": "9f4a899fa1b9602e99468d007ec1838cc7ad14447995472e8d85bcda49b141ca",
+  "sample_size_bytes": 548675,
+  "total_records": 1698
 }
