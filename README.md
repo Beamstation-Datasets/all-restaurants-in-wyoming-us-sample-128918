@@ -1,6 +1,6 @@
 # All Restaurants in Wyoming, US
 
-> Free BeamStation sample export with 157 rows and masked direct-contact fields.
+> Free BeamStation sample export with 169 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `128918` |
 | Location | Wyoming |
 | Category | Restaurants |
-| Full dataset size | 1,572 records |
-| Free sample size | 157 records (9.99%) |
-| Last export | 2026-04-28T23:18:55.659381+00:00 |
+| Full dataset size | 1,698 records |
+| Free sample size | 169 records (9.95%) |
+| Last export | 2026-05-08T02:11:13.439430+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-wyoming-us-sample-128918/releases/download/sample-latest/beamstation_128918_restaurants-us-wy_SAMPLE_DIST.csv) |
 
 ## What is in this sample
